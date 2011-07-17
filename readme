@@ -1,0 +1,2 @@
+one program first makes a dictionary based on the training corpus included in the project.
+a second program takes that dictionary and then clasifies an email and determines whether or not it is spam more details in the pdf
