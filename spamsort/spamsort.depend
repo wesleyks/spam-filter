@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1306755485 source:c:\users\wessur2\dropbox\mine!\spring 2011\eecs 348\spamsort\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<dirent.h>
+	<sstream>
+	<direct.h>
+	"windows.h"
+	<cmath>
+

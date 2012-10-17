@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1306701864 source:c:\users\wessur2\dropbox\mine!\spring 2011\eecs 348\builddictionary\tree.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	"tree.h"
+
+1306622298 c:\users\wessur2\dropbox\mine!\spring 2011\eecs 348\builddictionary\tree.h
+
+1306755410 source:c:\users\wessur2\dropbox\mine!\spring 2011\eecs 348\builddictionary\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<dirent.h>
+	"tree.h"
+	<sstream>
+
